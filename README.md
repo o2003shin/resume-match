@@ -15,7 +15,7 @@ A web application that analyzes a resume and job description alignment using key
 
 ## Project Roadmap 
 - [x] Project setup with Vite and React
-- [ ] Implement resume and job description input
+- [x] Implement resume and job description input
 - [ ] Keyword extraction backend
 - [ ] Job application tracker UI
 - [ ] Deploy
