@@ -23,11 +23,12 @@ html {
   justify-content: center;
   align-items: center;
   text-align: center;
+  outline: 1px solid white;
 }
 
 textarea {
-  height: 100px;
-  width: 200px;
+  height: 150px;
+  width: 250px;
   resize: none;
 }
 
