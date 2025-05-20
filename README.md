@@ -10,12 +10,12 @@ A web application that analyzes a resume and job description alignment using key
 ## Tech Stack
 - Frontend: React, Vite, TailwindCSS
 - Backend: Node.js, Express (Planned)
-- NLP: TF-IDF / Simple Keyword Extraction (Planned)
+- Simple Keyword Extraction (Planned)
 - Database: Firebase or PostgreSQL (Planned)
 
 ## Project Roadmap 
 - [x] Project setup with Vite and React
 - [x] Implement resume and job description input
-- [ ] Keyword extraction backend
+- [x] Keyword extraction backend
 - [ ] Job application tracker UI
 - [ ] Deploy
