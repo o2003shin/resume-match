@@ -23,12 +23,11 @@ html {
   justify-content: center;
   align-items: center;
   text-align: center;
-  outline: 1px solid white;
 }
 
 textarea {
-  height: 150px;
-  width: 250px;
+  height: 300px;
+  width: 500px;
   resize: none;
 }
 
@@ -49,4 +48,29 @@ textarea {
 
 button:hover {
   cursor: pointer;
+}
+
+.resultCardContainer {
+  display: flex;
+  justify-content: center;
+  align-items: flex start;
+  gap: 20px;
+}
+
+.keywords {
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+}
+
+.keyword {
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  margin-left: 40%;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
 }

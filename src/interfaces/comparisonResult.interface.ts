@@ -1,5 +1,6 @@
-export interface comparisonResult {
+export interface analysisResult {
     matchPercent?: number;
-    missingKeyWords?: string[];
+    matchingKeywords?: string[]
+    missingKeywords?: string[];
 }
 
